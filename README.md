@@ -1,16 +1,26 @@
-### Hi there 👋
+### Audiovisuals
+<a href="https://github.com/Alternary/AuralCalculator" >https://github.com/Alternary/AuralCalculator</a>
 
-<!--
-**Alternary/Alternary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+<dl><dd>
+<dl><dd>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github.com/Alternary/Alternary/blob/main/sines_rgb_bar.png" />
+<br>
+Audio <a href="https://freesound.org/people/Alternary/" >https://freesound.org/people/Alternary/</a>
+
+<br>
+<br>
+
+<img src="https://github.com/Alternary/Alternary/blob/main/signum%20of%2099%20times%20z.png" />
+<br>
+Visual <a href="https://www.flickr.com/photos/alternary">https://www.flickr.com/photos/alternary</a>
+
+</dd></dl>
+</dd></dl>
+
+<br>
+
+### Mathematical formalisms
+<a href="https://github.com/Alternary/mathematical-formalisms" >https://github.com/Alternary/mathematical-formalisms</a>
