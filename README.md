@@ -21,6 +21,21 @@ Visual <a href="https://www.flickr.com/photos/alternary">https://www.flickr.com/
 </dd></dl>
 
 <br>
+<!--
+
 
 ### Mathematical formalisms
 <a href="https://github.com/Alternary/mathematical-formalisms" >https://github.com/Alternary/mathematical-formalisms</a>
+
+-->
+
+
+
+
+
+
+
+
+
+
+
