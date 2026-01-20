@@ -24,12 +24,14 @@ Visual <a href="https://www.flickr.com/photos/alternary">https://www.flickr.com/
 
 <br>
 
+<!--
 ### Zomberly game
 
 <img src="https://github.com/Alternary/Alternary/blob/main/zomberly_screenshot.png"/>
 <a href="https://built-zomberly-tui-html.w3spaces.com/index.html">zomberly game</a>
 <br>
 <a href="https://github.com/Alternary/zomberlyTuiHTML">zomberly game code</a>
+-->
 
 ### Music
 
